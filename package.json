@@ -1,0 +1,39 @@
+{
+  "name": "personal-chat-app",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@artsy/fresnel": "^1.2.2",
+    "axios": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.14",
+    "next": "^10.0.3",
+    "nodemailer": "^6.4.8",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nookies": "^2.3.0",
+    "nprogress": "^0.2.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-infinite-scroll-component": "^5.1.0",
+    "react-moment": "^0.9.7",
+    "react-toastify": "^6.0.5",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.0",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.0",
+    "uuid": "^8.2.0",
+    "validator": "^13.0.0"
+  }
+}
