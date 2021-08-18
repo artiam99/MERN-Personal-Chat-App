@@ -4,7 +4,7 @@ This MERN Full stack web application is a Realtime Personal Chat App built with 
 
 Live Link: https://chat-app-maitra.herokuapp.com/
 
-### Message Screen
+### Messages Screen
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/47227715/129775113-a9be8eda-5785-46d6-8507-e07cd66a875f.png)
 
