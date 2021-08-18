@@ -16,10 +16,10 @@ Live Link: https://chat-app-maitra.herokuapp.com/
 
 ![Screenshot (104)](https://user-images.githubusercontent.com/47227715/129775185-4910a31f-8024-4003-b659-dca9961e52b5.png)
 
-Login Screen
+### Login Screen
 
 ![Screenshot (100)](https://user-images.githubusercontent.com/47227715/129775219-b73c0b97-f46a-4bd0-af5a-2adf907d58c2.png)
 
-Sign Up Screen
+### Sign Up Screen
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/47227715/129775225-36182ccf-ca3b-45f0-95c5-23c69ea4292d.png)
