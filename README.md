@@ -1,6 +1,6 @@
 # MERN-Personal-Chat-App
 
-This MERN Full stack web application is a Realtime Personal Chat App built with __Next.js__ development framework, __React.js__ for frontend, __Express.js__ for building REST API, __MongoDB__ for database, __Semantic-UI-React__ for the UI library and __Socket.IO__ for bi-directional realtime communication. It is deployed on __Heroku__.
+This MERN Full stack web application is a Realtime Personal Chat App built with __Next.js__ development framework, __React.js__ for frontend, __Express.js__ for building REST API, __MongoDB__ for database, __Semantic-UI-React__ for the UI library and __Socket.IO__ for bi-directional realtime communication. It supports authentication with JSON Web Token. Server-side rendering is added with Next.js for fast page loading and improving SEO. It is deployed on __Heroku__.
 
 Live Link: https://chat-app-maitra.herokuapp.com/
 
